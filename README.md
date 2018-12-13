@@ -7,3 +7,4 @@ Pandas Foundations, Cleaning Data with Python, Manipulating Data Frames with Pyt
 - Financial Analyis and World Bank Data.
 - Python Programming
 - Case Studies
+- Data Management
