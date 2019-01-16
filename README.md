@@ -8,3 +8,4 @@ Pandas Foundations, Cleaning Data with Python, Manipulating Data Frames with Pyt
 - Python Programming
 - Case Studies
 - Data Management
+- Cognitive strategy
