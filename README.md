@@ -1,2 +1,2 @@
 # Exploring-Bitcoin-market
-Pandas Foundations, Cleaning Data with Python, Manipulating Data Frames with Python
+Pandas Foundations, Cleaning Data, Manipulating Data Frames.
